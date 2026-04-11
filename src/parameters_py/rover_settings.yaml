@@ -1,0 +1,5 @@
+/dynamic_tuning_node:
+  ros__parameters:
+    robot_name: "Suwi_Ultimate_Rover"
+    max_speed: 99.9
+

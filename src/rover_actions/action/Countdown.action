@@ -1,0 +1,11 @@
+# 1. THE GOAL (What we ask the robot to do)
+int32 starting_count
+---
+# 2. THE RESULT (What the robot says when it's totally done)
+bool success
+string message
+---
+# 3. THE FEEDBACK (What the robot says while it's working)
+int32 current_count
+string status
+
