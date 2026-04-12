@@ -1,0 +1,31 @@
+name: ROS2 Humble CI Build
+
+# Trigger this cloud server every time SJ pushes to the 'main' branch
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    # Borrow an Ubuntu 22.04 server from GitHub
+    runs-on: ubuntu-22.04
+
+    steps:
+      # Step 1: Download SJ's code onto the server
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Install ROS2 Humble on the server automatically
+      - name: Setup ROS 2 Humble
+        uses: ros-tooling/setup-ros@v0.7
+        with:
+          required-ros-distributions: humble
+
+      # Step 3: Run the build command
+      - name: Build Workspace (colcon build)
+        run: |
+          source /opt/ros/humble/setup.bash
+          # Only build our specific custom packages
+          colcon build --packages-select rover_bringup rover_description rover_actions heartbeat_pkg heartbeat_pkg_cpp control_client_py control_server_cpp dynamic_tf_py parameters_py tf_broadcaster_cpp
