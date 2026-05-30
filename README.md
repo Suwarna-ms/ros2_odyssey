@@ -16,7 +16,7 @@
 
 - 🎓 **B.E. Mechatronics Engineering** — Nehru Institute of Engineering and Technology, Coimbatore (CGPA: 9.45/10)
 - 🤖 Building autonomous robots using **ROS2**, **Nav2**, and **SLAM**
-- 🏆 **TN Impact Hackathon Winner** (Feb 2026) — SmartStep wearable among 200+ teams
+- 🏆 **TN Impact Hackathon ** (Feb 2026) — SmartStep wearable among 200+ teams
 - 📊 **NPTEL Top 2% Nationally** — Sensors & Actuators, IIT Hyderabad
 - 🌱 Currently learning: **C++ ROS2 nodes**, **micro-ROS**, **DSA**
 - 🎯 Goal: Robotics Software Engineer at a product company
