@@ -19,7 +19,7 @@
 - 🏆 **TN Impact Hackathon ** (Feb 2026) — SmartStep wearable among 200+ teams
 - 📊 **NPTEL Top 2% Nationally** — Sensors & Actuators, IIT Hyderabad
 - 🌱 Currently learning: **C++ ROS2 nodes**, **micro-ROS**, **DSA**
-- 🎯 Goal: Robotics Software Engineer at a product company
+- 🎯 Goal: Robotics Software Engineer
 
 ---
 
