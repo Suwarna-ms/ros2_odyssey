@@ -40,7 +40,7 @@ Tools        →  Linux (Ubuntu), Git, GitHub, VS Code, Arduino IDE
 | Project | Description | Tech |
 |---|---|---|
 | [🤖 ros2_odyssey](https://github.com/Suwarna-ms/ros2_odyssey) | Autonomous rover — SLAM mapping, Nav2 navigation, custom action clients | ROS2, Nav2, Python, Gazebo |
-| [👣 SmartStep](https://github.com/Suwarna-ms) | Wearable foot monitor — won TN Impact Hackathon 2026 | ESP32, FSR, IMU, BLE |
+| [👣 SmartStep](https://github.com/Suwarna-ms) | Wearable foot monitor —  TN Impact Hackathon 2026 | ESP32, FSR, IMU, BLE |
 | [🌿 Plant Disease Rover](https://github.com/Suwarna-ms) | Edge AI rover — 85% accuracy, zero cloud dependency | TFLite, TinyML, OpenCV |
 | [📋 Smart Attendance](https://github.com/Suwarna-ms) | Real-time face recognition — 100% manual effort eliminated | Python, OpenCV |
 
@@ -59,7 +59,7 @@ Tools        →  Linux (Ubuntu), Git, GitHub, VS Code, Arduino IDE
 
 ## 🏆 Achievements
 
-- 🥇 **TN Impact Hackathon Winner** — TANCAM, Feb 2026 (200+ teams)
+- 🥇 **TN Impact Hackathon ** — TANCAM, Feb 2026 (200+ teams)
 - 🎖️ **NPTEL Top 2% Nationally** — Sensors & Actuators, IIT Hyderabad 2024
 - 🏅 **e-Yantra Robotics Competition** — IIT Bombay 2025–26
 - 🇮🇳 **Smart India Hackathon** — National Level Participant 2024 & 2025
